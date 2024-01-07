@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T14:00:04.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P8Eu50WDib_abTGZ-rYG" version="22.1.16" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-07T14:09:23.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YbFbGHyzXElCtxzosZ6U" version="22.1.16" type="github" pages="4">
   <diagram name="Halaman-1" id="gTxjOjiDna8eQWoFkA4u">
     <mxGraphModel dx="1735" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,8 +205,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rxxKOhRKRszEDTbPxH6h" name="Halaman-2">
-    <mxGraphModel dx="2069" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="rxxKOhRKRszEDTbPxH6h" name="Use Case">
+    <mxGraphModel dx="928" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,6 +527,47 @@
         </mxCell>
         <mxCell id="N3PVGM4N7qhTLsGLIXM0-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="N3PVGM4N7qhTLsGLIXM0-195" source="N3PVGM4N7qhTLsGLIXM0-182" target="N3PVGM4N7qhTLsGLIXM0-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TJg_sZcl-fbQUAWCpxY2" name="Halaman-4">
+    <mxGraphModel dx="603" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-1" value="Halaman Utama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-2" value="Manajemen Produk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-3" value="Manajemen Transaksi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-4" value="Laporan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-5" value="Kategori Produk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-6" value="Produk Toko" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-7" value="Pesanan Masuk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-8" value="Pesanan Dikemas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-10" value="Pesanan Dikirim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="420" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-11" value="Pesanan Selesai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zvUW-bHdSk-80Y0-j3-M-12" value="Pesanan Dibatalkan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="564.5" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
